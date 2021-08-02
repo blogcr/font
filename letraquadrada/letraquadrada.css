@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'letraquadrada';
-    src: url('font/letraquadrada/dddrndsq-webfont.woff2') format('woff2'),
-         url('font/letraquadrada/dddrndsq-webfont.woff') format('woff');
+    src: url('../dddrndsq-webfont.woff2') format('woff2'),
+         url('../dddrndsq-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
